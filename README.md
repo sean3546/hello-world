@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GItHub
+My name is Sean and this is my first repository on GItHub
